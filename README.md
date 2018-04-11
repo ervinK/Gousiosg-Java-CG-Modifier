@@ -1,5 +1,5 @@
 # Gousiosg-Java-Static-CG-Modifier
-## Introduce
+## Introduction
 Original project: https://github.com/gousiosg/java-callgraph
 This repository presents a modified output of the original project for easier comparsion with other callgraph outputs. The original output has unimportant contents in sight of callgraph building.
 
