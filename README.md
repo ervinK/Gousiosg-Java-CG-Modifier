@@ -5,7 +5,7 @@ This repository presents a modified output of the original project for easier co
 
 ## Usage
 
-1.  If you have ur project in type *.jar -> " ./gousiosgcg.sh example.jar " to analyze
+1.  If you have your project in type *.jar -> " ./gousiosgcg.sh example.jar " to analyze
                                                                                 
 2.  Otherwise you have your classes .class format ->                                  
 	  "./gousiosgcg.sh toCreate_jarfile_name.jar  path/from/this/dir/to/bin"   
